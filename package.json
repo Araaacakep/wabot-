@@ -22,16 +22,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/RTeam1/wabot-aq",
+  "homepage": "https://github.com/Araaacakep/wabot-",
   "author": {
     "name": "Nurutomo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RTeam1/wabot-aq.git"
+    "url": "git+https://github.com/Araaacakep/wabot-.git"
   },
   "bugs": {
-    "url": "https://github.com/RTeam1/wabot-aq/issues"
+    "url": "https://github.com/Araaacakep/wabot-/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
