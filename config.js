@@ -20,7 +20,7 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['601161739141']// Put your number here
+global.owner = ['6485249231619']// Put your number here
 
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -49,8 +49,8 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
 //var sticker_author = 'Nurutomo'
-var sticker_name = 'X - RyuuZeyy' // ganti aja
-var sticker_author = '' // ganti aja
+var sticker_name = 'RFK' // ganti aja
+var sticker_author = 'Tata' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -79,21 +79,21 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (RyuuZeyy)
-gc1 = ''
-gc2 = ''
-gc3 = ''
-namaig = 'https://instagram.com/bah.raid'
+gc1 = 'https://chat.whatsapp.com/KKNc0hY59vjH4BccwioMhr'
+gc2 = 'https://chat.whatsapp.com/KvrOeDsK10TB9fUUU5e9r0'
+gc3 = 'https://chat.whatsapp.com/HXXTNMIjz5oBeIYdarMJG5'
+namaomlet = 'ara.cakep'
 linkf = gc1
-linkff = namaig
-namabot = 'SabrieBot'
-namagithub = 'https://github.com/RTeam1'
+linkff = namaomlet
+namabot = 'Savirty'
+namagithub = 'https://github.com/Araaacakep'
 gcid = '972502255007-1406453544'
-footer = 'SabrieBot'
+footer = 'savirtyBot'
 lolkey = 'rey2k21'
 global.wait = 'Tunggu Sebentar'
 bc = 'Sabrie'
-titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'
+titler = 'Happy nice day'
 body = run
-kasihcaption = `©${namaig}\n\n©${namagithub}`
+kasihcaption = `©${namaomlet}\n\n©${namagithub}`
 gambar1 = tum1
 gambar2 = tum2
