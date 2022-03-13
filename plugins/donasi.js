@@ -1,16 +1,16 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
 │ • three
-│ • 0896-7776-3976
+│ • 085249231619
 ╰────
 
 ╭─「 Donasi • Bank Virtual 」
 │ • OVO
-│ • 0896-7776-3976
+│ • 085249231619
 │ • DANA
-│ • 0896-7776-3976
+│ • 085249231619
 │ • GOPAY
-│ • 0896-7776-3976
+│ • 085249231619
 ╰────
 
 ╭─「 Donasi • Website 」
